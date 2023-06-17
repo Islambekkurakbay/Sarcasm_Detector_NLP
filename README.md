@@ -9,6 +9,6 @@ This project uses Multinomial Naive Bayes, Logistic Regression with TFIDF, Bidir
 ![alt text](https://github.com/islambekkurakbay/Sarcasm_Detector_NLP/blob/main/concl.PNG?raw=true)
 
 
-GUI on Tkinter and Telegram Bots were implemented for better user experience.
+GUI on Tkinter and Telegram Bot were implemented for better user experience.
 
 ![alt text](https://github.com/islambekkurakbay/Sarcasm_Detector_NLP/blob/main/telegram_bot.jpg?raw=true)
